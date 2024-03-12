@@ -1,0 +1,68 @@
+h1{
+    font-size: 35px;
+}
+
+ul{
+    font-size: 18px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+.who-we-are h3{
+    clear: both;
+}
+
+.who-we-are p{
+    font-size: 18px;
+}
+
+.robot-like{
+    float: left;
+    width: 23vh;
+    margin-right: 10px;
+}
+
+.lorem{
+    margin: 221px 0 0 0;
+    padding: 6px 0;
+}
+
+.service{
+    font-size: 18px;
+}
+
+.project img{
+    width: 40vh;
+    height: 25vh;
+}
+
+.contact img{
+    width: 25vh;
+}
+
+.contact h4{
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.contact p{
+    font-size: 20px;
+    font-style: italic;
+    margin: 0;
+}
+
+.contact span {
+    font-size: 20px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.email {
+    font-size: 20px;    
+}
